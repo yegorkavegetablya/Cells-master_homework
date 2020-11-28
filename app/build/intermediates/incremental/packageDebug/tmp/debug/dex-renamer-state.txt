@@ -1,0 +1,4 @@
+#Sat Nov 28 13:19:01 MSK 2020
+base.0=C\:\\Users\\egork\\Desktop\\Android IT Sumsung\\Cells-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
